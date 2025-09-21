@@ -2,5 +2,5 @@ server:
   port: 8080
 
 razorpay:
-  key:  "rzp_test_RH5et9rnLYiOGd"
-  secret: "Jwd996cGkluRu8hpO30pQPJu"
+  key:  "demo"
+  secret: "demo"
